@@ -6,7 +6,7 @@ Currently working on:
 •	Forward simulations in SLiM to model bloom dynamics 
 •	De novo transcriptome assembly & annotation for a non-model organism 
 
-Live. Laugh. Larvae.
+
 
 
 
